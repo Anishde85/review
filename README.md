@@ -1,2 +1,2 @@
 # review
-Blog at :- https://knowmyblog.herokuapp.com/
+Website at :- https://knowmyblog.herokuapp.com/
